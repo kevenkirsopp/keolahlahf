@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vooxohquo.springoffashion.jp/sitemap.xml
